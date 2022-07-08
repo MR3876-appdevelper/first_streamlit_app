@@ -1,7 +1,7 @@
 import streamlit
 
 streamlit.title('My first web data application')
-Streamlit.header ('Application Header')
-Streamlit.text('Test line one')
-Streamlit.text('Test line 2')
-Streamlit.text('Test line thrice')
+streamlit.header ('Application Header')
+streamlit.text('Test line one')
+streamlit.text('Test line 2')
+streamlit.text('Test line thrice')
